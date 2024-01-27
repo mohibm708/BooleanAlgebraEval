@@ -8,7 +8,7 @@ func main() {
     let R = Bool(input("value of second variable: ", require: bools))!
     let result = evaluate(L:L,R:R)
     print("result is \(result) \(result ? ":]" : ":[")")
-    print("evaluate new? (y for yes, press any other key to exit): ")
+    print("evaluate new? (y for yes, press any other key to exit): ", terminator: "")
     if yes.contains(readLine()!.lowercased()) {main()}
 }
 
@@ -52,7 +52,7 @@ func evaluate(L: Bool, R: Bool, _ notCount: Int = 0) -> Bool {
     case "not": print("negating ", terminator: ""); notCount += 1; return !evaluate(L:L,R:R, notCount)
     case "xor": return L != R
     case "imply": return !L || R
-    case "=": return L == R
+    case "equals": return L == R
     default: fatalError("unexpected argument \(operation) :[[[")
     }
 }
