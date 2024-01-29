@@ -1,11 +1,11 @@
 {
   "": {
-    "swift-dependencies": "/home/mohibullah-meer/Projects/BooleanAlgebraEval/.build/x86_64-unknown-linux-gnu/debug/Simple.build/master.swiftdeps"
+    "swift-dependencies": "/home/mohibullah-meer/Projects/DM/BooleanAlgebraEval/.build/x86_64-unknown-linux-gnu/debug/Simple.build/master.swiftdeps"
   },
-  "/home/mohibullah-meer/Projects/BooleanAlgebraEval/main.swift": {
-    "dependencies": "/home/mohibullah-meer/Projects/BooleanAlgebraEval/.build/x86_64-unknown-linux-gnu/debug/Simple.build/main.d",
-    "object": "/home/mohibullah-meer/Projects/BooleanAlgebraEval/.build/x86_64-unknown-linux-gnu/debug/Simple.build/main.swift.o",
-    "swiftmodule": "/home/mohibullah-meer/Projects/BooleanAlgebraEval/.build/x86_64-unknown-linux-gnu/debug/Simple.build/main~partial.swiftmodule",
-    "swift-dependencies": "/home/mohibullah-meer/Projects/BooleanAlgebraEval/.build/x86_64-unknown-linux-gnu/debug/Simple.build/main.swiftdeps"
+  "/home/mohibullah-meer/Projects/DM/BooleanAlgebraEval/main.swift": {
+    "dependencies": "/home/mohibullah-meer/Projects/DM/BooleanAlgebraEval/.build/x86_64-unknown-linux-gnu/debug/Simple.build/main.d",
+    "object": "/home/mohibullah-meer/Projects/DM/BooleanAlgebraEval/.build/x86_64-unknown-linux-gnu/debug/Simple.build/main.swift.o",
+    "swiftmodule": "/home/mohibullah-meer/Projects/DM/BooleanAlgebraEval/.build/x86_64-unknown-linux-gnu/debug/Simple.build/main~partial.swiftmodule",
+    "swift-dependencies": "/home/mohibullah-meer/Projects/DM/BooleanAlgebraEval/.build/x86_64-unknown-linux-gnu/debug/Simple.build/main.swiftdeps"
   }
 }
